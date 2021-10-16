@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+body
+{
+    background-color: #746b5aaf;
+}
+
+.bg
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    margin-top: -600px;
+}
+
+.backimg
+{
+    width: 100%;
+    height: 600px;
+}
+
+.index
+{
+    border-bottom: 3px solid white;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 60%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    color: white;
+    word-spacing: 175px;
+    text-align: center;
+}
+
+.name
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 10px;
+}
+
+.content
+{
+    border: 0.5px solid #746B5A;
+    position: relative;
+    width: 60%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0),#746b5aaf);
+    box-shadow: -10px -10px  5px #0202028c;
+}
+
+.designer
+{
+    position: absolute;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 10px;
+    height: 150px;
+    width: 350px;
+    color: white;
+    margin-left: 50px;
+}
+
+
+.middle
+{
+    position: absolute;
+    text-align: center;
+    margin-top: 140px;
+    height: 40px;
+    width: 375px;
+    font-family: 'Ephesis', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    word-spacing: 40px;
+    color: white;
+    margin-left: 30px;
+}
+
+.line
+{
+    width: 400px;
+    margin-top: 180px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: white;
+}
+
+.para
+{
+    position: absolute;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 140px;
+    width: 350px;
+    font-family: 'IM Fell English SC', serif;
+    color: white;
+    font-size: 22px;
+}
+
+.btn
+{
+    margin-top: 170px;
+    margin-left: 125px;
+    position: absolute;
+    text-align: center;
+    
+}
+
+.button
+{
+    background-color: #746B5A;
+    width: 200px;
+    height: 50px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
